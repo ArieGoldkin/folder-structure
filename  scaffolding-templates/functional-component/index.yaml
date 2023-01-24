@@ -1,0 +1,4 @@
+variables:
+  - dashedName
+  - pascalCaseName
+  - snakeCaseName 
